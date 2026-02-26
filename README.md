@@ -24,7 +24,7 @@ I love learning and improving my coding skills
 
 One day I would love to finally build my game **The Caputo Effect**
 
-## 💡 Skills & Tech
+## Skills & Tech
 
 Here are some of the technologies and tools I will be learning / working with!
 
@@ -34,7 +34,7 @@ Here are some of the technologies and tools I will be learning / working with!
 
 **Tools:**      Git • GitHub • VS Code • Figma • FL Studio Gang!
 
-## 📲 Get In Touch
+## Get In Touch
 
 You can reach me on:
 
