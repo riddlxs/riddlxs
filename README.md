@@ -6,10 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a00&height=220&section=header&text=Liana&fontSize=75&fontColor=00ff41&animation=fadeIn&fontAlignY=50&stroke=00ff41&strokeWidth=2" />
-</p>
-
 # Welcome to my GitHub, I'm Liana!
 
 Student | Junior Web Developer | Future Backend Developer
