@@ -34,23 +34,11 @@ Here are some of the technologies and tools I will be learning / working with!
 
 **Tools:**      Git • GitHub • VS Code • Figma • FL Studio Gang!
 
-## 📂 Projects
-
-Here are a few things I’ve worked on (add links to your repos!):
-
-- **Project One** – Brief description  
-- **Project Two** – Brief description  
-- **Project Three** – Brief description  
-
-(Add links with `[Repo Name](https://github.com/yourusername/repo-name)`)
-
 ## 📲 Get In Touch
 
 You can reach me on:
 
-- Twitter: https://twitter.com/yourhandle  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourwebsite.com  
-(Add or remove links as needed)
+- LinkedIn: https://www.linkedin.com/in/lianahockin/
+- Portfolio: (https://riddlxs416.wixsite.com/riddlxsli)
 
 Thanks for stopping by! 😊
