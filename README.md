@@ -38,6 +38,7 @@ Here are some of the technologies and tools I will be learning / working with!
 
 You can reach me on:
 
-- LinkedIn: https://www.linkedin.com/in/lianahockin/
-- Portfolio: https://riddlxs416.wixsite.com/riddlxsli
+LinkedIn: https://www.linkedin.com/in/lianahockin/
+
+Portfolio: https://riddlxs416.wixsite.com/riddlxsli
 
