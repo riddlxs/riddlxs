@@ -1,7 +1,7 @@
 <!-- HACKER TERMINAL INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=120&lines=%24+boot+--profile;Loading+Liana's+data;Name:+Liana;Age:+22;Role:+Web+Developer;Future+Role:+Backend+Developer...;Access:+GRANTED+✔" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=120&lines=%24+boot+--profile;Loading+Liana's+data;Name:+Liana;Age:+22;Role:+Web+Developer;Future+Role:+Backend+Developer;Access:+GRANTED+✔" 
 </p>
 
 
